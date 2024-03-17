@@ -1,0 +1,19 @@
+
+h2 {
+    color: white;
+    background-color: rgb(155, 1, 1);
+    border: 8px solid rgb(100, 0, 0);
+    border-radius: 15px;
+    width: px;
+    align-items: h2 center;
+  }
+  
+  .img {
+    width: 600px;
+    height: 400px;
+}
+
+img{
+    border: 5px solid black;
+    border-radius: 20px;
+}
