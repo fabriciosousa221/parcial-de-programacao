@@ -1,7 +1,7 @@
 ## SITE PESSOAL
-**SITE CRIADO POR FABRIIO SOUSA.**
+**SITE CRIADO POR FABRCIO SOUSA.**
 ## QUAL OBJETIVO?
-**Esse site tem como intuito, MOSTRAR UM POUCO SOBRE A HISTORIA DO BASQUETE E A IMPORTANCIA DO ESPORTA.**
+**Esse site tem como intuito, mostrar um pouco da historia do basquete e a importancia do esporte.**
 ## O QUE FOI UTILIZADO?
 **Tags que aprendemos na aula, listas, bordas, linkagens externas etc.**
 ## LINGUAGENS UTILIZADAS
